@@ -37,8 +37,8 @@ We are a professional team of engineers capable of bringing the most daring prod
 <p align="center">
   <a href="https://clutch.co/profile/code-cakes" target="blank">
     <img align="center" 
-    src="./images/clutch.webp" 
-    alt="https://www.linkedin.com/company/85990976/" 
+    src="https://firebasestorage.googleapis.com/v0/b/test-project-a-aa407.appspot.com/o/clutch.webp?alt=media&token=a3268db4-2e04-48b2-9b0a-07d75f8b8656" 
+    alt="https://clutch.co/profile/code-cakes" 
     height="45"
     />
   </a>
