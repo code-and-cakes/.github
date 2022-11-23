@@ -22,6 +22,8 @@
 We are a professional team of engineers capable of bringing the most daring product ideas to life. We are not just coders — we are engineers with a product vision and ownership mentality, so we treat each project as our own.
 </p>
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/company/85990976/" target="blank">
     <img align="center" 
@@ -31,3 +33,14 @@ We are a professional team of engineers capable of bringing the most daring prod
          width="20"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://clutch.co/profile/code-cakes" target="blank">
+    <img align="center" 
+    src="./images/clutch.webp" 
+    alt="https://www.linkedin.com/company/85990976/" 
+    height="45"
+    />
+  </a>
+</p>
+  
